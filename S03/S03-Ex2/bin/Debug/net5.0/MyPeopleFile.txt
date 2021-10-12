@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": "Anna",
+    "LastName": "Vilma",
+    "Age": 29,
+    "Height": 170,
+    "IsMarried": true,
+    "Sex": "F",
+    "Hobbies": [
+      "volleyball",
+      "football"
+    ]
+  },
+  {
+    "FirstName": "Mathias",
+    "LastName": "Jensen",
+    "Age": 24,
+    "Height": 182,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "volleyball",
+      "tennis"
+    ]
+  },
+  {
+    "FirstName": "Alice",
+    "LastName": "Varlan",
+    "Age": 15,
+    "Height": 160,
+    "IsMarried": false,
+    "Sex": "F",
+    "Hobbies": [
+      "walking",
+      "reading"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\S02-Ex5.exe
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\S02-Ex5.deps.json
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\S02-Ex5.runtimeconfig.json
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\S02-Ex5.runtimeconfig.dev.json
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\S02-Ex5.dll
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\ref\S02-Ex5.dll
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\bin\Debug\net5.0\S02-Ex5.pdb
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.csproj.AssemblyReference.cache
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.AssemblyInfoInputs.cache
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.AssemblyInfo.cs
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.csproj.CoreCompileInputs.cache
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.dll
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\ref\S02-Ex5.dll
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.pdb
+C:\Users\tabit\RiderProjects\Solution2\S02\S02-Ex5\obj\Debug\net5.0\S02-Ex5.genruntimeconfig.cache
